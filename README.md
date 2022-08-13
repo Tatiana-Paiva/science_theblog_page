@@ -21,4 +21,4 @@ Faltando ainda trabalhar:
 - Responsividade (ainda em desenvolvimento)
 - Evento de mouse com JavaScript (ainda não aplicado)
 
-[Viualizar Projeto em desenvolvimento](https://tatiana-paiva.github.io/science_theblog_page/)
+[Visualizar Projeto em desenvolvimento](https://tatiana-paiva.github.io/science_theblog_page/)
