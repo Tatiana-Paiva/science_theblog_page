@@ -6,4 +6,6 @@ Primeiro layout desenvolvido sozinha sem ajuda de tutorial.
 
 Desenvolvido com HTML5, CSS e um pouco de Bootstrap.
 
-Ainda em construção (faltando finalizar alguns detalhes)
+Ainda em construção (faltando finalizar alguns detalhes
+
+[Projeto](https://tatiana-paiva.github.io/science_theblog_page/)
